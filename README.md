@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi 👋, I'm Sakshi Kukreja  
 
-<!--
-**SakshiKukreja04/SakshiKukreja04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Computer Science Engineering Student from India 🇮🇳
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **MERN Stack & AI/ML projects**
+- 🌱 I’m currently upskilling myself in **DSA**
+- 👯 I’m looking to collaborate on **MERN & AI/ML projects**
+- 📫 How to reach me: **sakshikukreja2005@gmail.com**
+- 📄 Know about my experiences:  
+  [Resume / Portfolio](https://drive.google.com/file/d/1GmXNEquM1TLT7NAk6C7a7vfEFQYP5wUF/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/sakshi-kukreja-31231028b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,python" />
+</p>
