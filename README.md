@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/sakshi-kukreja-31231028b" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 <a href="https://leetcode.com/u/Sakshi0408" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40" style="filter: invert(48%) sepia(94%) saturate(748%) hue-rotate(4deg) brightness(97%) contrast(103%);"/>
 </a>
 </p>
 
