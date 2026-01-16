@@ -16,11 +16,14 @@
 <a href="https://www.linkedin.com/in/sakshi-kukreja-31231028b" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+  <a href="https://leetcode.com/u/Sakshi0408" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,java,react,nodejs,express,mongodb,git,github,figma,python,scikit-learn,opencv,aws" />
 </p>
