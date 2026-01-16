@@ -15,9 +15,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sakshi-kukreja-31231028b" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-  <a href="https://leetcode.com/u/Sakshi0408" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+<a href="https://leetcode.com/u/Sakshi0408" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40"/>
 </a>
 </p>
 
