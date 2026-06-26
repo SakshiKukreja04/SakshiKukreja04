@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **MERN & AI/ML projects**
 - 📫 How to reach me: **sakshikukreja2005@gmail.com**
 - 📄 Know about my experiences:  
-  [Resume / Portfolio](https://drive.google.com/file/d/1GmXNEquM1TLT7NAk6C7a7vfEFQYP5wUF/view?usp=sharing)
+  [Resume](https://drive.google.com/file/d/139SsG13lV5U76eebYo1NhP4CLkeSSta8/view?usp=drive_link)
 
 ---
 
